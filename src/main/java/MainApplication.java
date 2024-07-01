@@ -9,9 +9,6 @@ public class MainApplication {
     }
 
     public static void doSomething() {
-        System.out.println(0);
-        System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
+        System.out.println("Hello World");
     }
 }
